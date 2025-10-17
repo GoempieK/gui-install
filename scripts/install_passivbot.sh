@@ -8,7 +8,7 @@ BOT_TOKEN=""
 BOT_IP=""
 WORKDIR=""
 PASSIVBOT_REPO="https://github.com/enarjord/passivbot.git"
-AGENT_SOURCE="https://raw.githubusercontent.com/GoempieK/passivbot-gui/main/examples/bot_api.py"
+AGENT_SOURCE="https://raw.githubusercontent.com/GoempieK/gui-install/refs/heads/main/examples/bot_api.py"
 
 usage() {
   cat <<USAGE >&2
